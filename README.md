@@ -6,7 +6,7 @@ This Terraform project automates the setup and configuration of security-related
 - [Terraform](https://www.terraform.io/) installed locally.
 - Appropriate access and permissions to create resources in GCP.
 
-## Terraform Providers
+## Terraform Providers file
 
 ### Provider Configuration
 
